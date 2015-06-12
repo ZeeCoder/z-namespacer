@@ -1,0 +1,29 @@
+{
+  "name": "z-namespacer",
+  "version": "1.0.0",
+  "description": "Namespaces event strings. (Works with jQuery.)",
+  "main": "Namespacer.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeeCoder/z-namespacer.git"
+  },
+  "keywords": [
+    "jQuery",
+    "namespace",
+    "event"
+  ],
+  "author": "Hubert Viktor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeeCoder/z-namespacer/issues"
+  },
+  "homepage": "https://github.com/ZeeCoder/z-namespacer#readme",
+  "devDependencies": {
+    "clone": "^1.0.2",
+    "jquery": "^2.1.4",
+    "mocha": "^2.2.5"
+  }
+}
